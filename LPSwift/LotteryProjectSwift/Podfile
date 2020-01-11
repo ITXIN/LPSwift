@@ -1,0 +1,10 @@
+platform:ios,'8.0'
+use_frameworks!
+target 'LotteryProjectSwift' do
+	pod 'SnapKit'
+	pod 'Alamofire'
+	pod 'SVProgressHUD'
+	pod 'SDWebImage'
+	pod 'MJRefresh'
+	pod 'ReactiveCocoa', '~> 7.0'
+end
